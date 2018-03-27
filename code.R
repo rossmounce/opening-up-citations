@@ -6,7 +6,7 @@ library(dplyr)
 # The 363 CrossRef member IDs that do make their citation data open
 yy <- cr_members(filter=list(has_public_references=TRUE),limit=400)
 
-# The 9552 CrossRef member IDs that do NOT make their citation data open
+# The 9552 CrossRef member IDs that do NOT make their citation data open, there is a hard limit on the API of 1000 per query
 zza <- cr_members(filter=list(has_public_references=FALSE),limit=960, offset = 0)
 zzb <- cr_members(filter=list(has_public_references=FALSE),limit=960, offset = 960)
 zzc <- cr_members(filter=list(has_public_references=FALSE),limit=960, offset = 1920)
