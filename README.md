@@ -17,11 +17,11 @@ But given there are 2241 that provide one or more items with associated referenc
 
 Additional Notes & Trivia:
 
-2272 "closed" members have 19 or less registered DOIs
+* 2272 "closed" members have 19 or less registered DOIs
 
-5193 "closed" members have 100 or more registered DOIs
+* 5193 "closed" members have 100 or more registered DOIs
 
-1464 "closed" members have 1000 or more registered DOIs
+* 1464 "closed" members have 1000 or more registered DOIs
 
-1834 "closed" members have CURRENT (last 2 years) material, with reference-list data at CrossRef
-587 "closed" members only have BACKFILE (more than 2 years old) material with reference-list data at CrossRef
+* 1834 "closed" members have CURRENT (last 2 years) material, with reference-list data at CrossRef
+* 587 "closed" members only have BACKFILE (more than 2 years old) material with reference-list data at CrossRef
