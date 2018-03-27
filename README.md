@@ -2,6 +2,7 @@
 A publisher level analysis of non-public reference data at CrossRef
 
 At the time of analysis (2018-03-26) just 363 CrossRef member IDs appear to have open citations, out of 9943.
+Oddly, one can deduce that about 27 members do not appear in either "has_public_references=TRUE" OR "has_public_references=FALSE", as 9943 minus 363 does not equal 9552. Strange! Is there a third state for has_public_references ?
 
 Files:
 
